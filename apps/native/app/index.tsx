@@ -70,7 +70,7 @@ export default function Native() {
             console.log("Pressed!");
             toast.info(
               "Testing the toaster. This is a long description. You can describe your toast in detail.",
-              { position: "bottom-center" },
+              { position: "top-center" },
             );
             // alert("Pressed!");
           }}

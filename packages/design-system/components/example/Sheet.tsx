@@ -27,7 +27,7 @@ export function SheetExample() {
           <Text>Open Sheet</Text>
         </Button>
       </SheetTrigger>
-      <SheetContent>
+      <SheetContent className="w-full">
         <SheetHeader>
           <SheetTitle>Edit profile</SheetTitle>
           <SheetDescription>
